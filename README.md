@@ -2,4 +2,4 @@
 
 
 
-https://emmaekmalyan5-lang.github.io/my-gor-os/
+https://GorYavrumyan.github.io/my-gor-os/
